@@ -14,7 +14,6 @@ code --install-extension eamodio.gitlens
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eg2.tslint
 code --install-extension esbenp.prettier-vscode
-code --install-extension jhipster-ide.jdl
 code --install-extension johnpapa.Angular2
 code --install-extension k--kato.intellij-idea-keybindings
 code --install-extension MariusAlchimavicius.json-to-ts
