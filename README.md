@@ -3,11 +3,12 @@ List of Visual Studio Code Extensions for Angular development
 
 | Extension     | Author           | Marketplace  |
 | ------------- |:-------------:| -----:|
+| Angular Essentials| John Papa | [<p align="center"><img src="https://johnpapa.gallerycdn.vsassets.io/extensions/johnpapa/angular-essentials/0.4.0/1532302701348/Microsoft.VisualStudio.Services.Icons.Default" alt="Angular Essentials" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) |
 | Angular Language Service| Angular | [<p align="center"><img src="https://angular.gallerycdn.vsassets.io/extensions/angular/ng-template/0.1.11/1543605835748/Microsoft.VisualStudio.Services.Icons.Default" alt="Angular Language Service" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) |
 | Angular Files | Alexander Ivanichev | [<p align="center"><img src="https://alexiv.gallerycdn.vsassets.io/extensions/alexiv/vscode-angular2-files/1.6.2/1536825761932/Microsoft.VisualStudio.Services.Icons.Default" alt="Angular Files" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=alexiv.vscode-angular2-files) |
 | Path Intellisense      | Christian Kohler      |  [<p align="center"><img src="https://christian-kohler.gallerycdn.vsassets.io/extensions/christian-kohler/path-intellisense/1.4.2/1494488953003/Microsoft.VisualStudio.Services.Icons.Default" alt="Path Intellisense" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) |
 | Bracket Pair Colorizer      | CoenraadS      |  [<p align="center"><img src="https://coenraads.gallerycdn.vsassets.io/extensions/coenraads/bracket-pair-colorizer/1.0.61/1542132753296/Microsoft.VisualStudio.Services.Icons.Default" alt="Bracket Pair Colorizer" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) |
-| Git History      | CoenraadS      |  [<p align="center"><img src="https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.4.4/1543271513403/Microsoft.VisualStudio.Services.Icons.Default" alt="Git History" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) |
+| Git History      | Don Jayamanne      |  [<p align="center"><img src="https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.4.4/1543271513403/Microsoft.VisualStudio.Services.Icons.Default" alt="Git History" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) |
 | Dracula Official     | Dracula      |  [<p align="center"><img src="https://draculatheme.com/assets/img/icons/tombstone.png" alt="Dracula Official" width="50"/></p>](https://draculatheme.com/visual-studio-code/) |
 | GitLens      | Eric Amodio      |  [<p align="center"><img src="https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/9.4.1/1546934651656/Microsoft.VisualStudio.Services.Icons.Default" alt="GitLens" width="50"/></p>](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
 | EditConfig      | editorconfig      |  [<p align="center"><img src="https://editorconfig.org/logo.png" alt="Editorconfig" width="50"/></p>](https://github.com/editorconfig/editorconfig-vscode) |
@@ -22,6 +23,7 @@ List of Visual Studio Code Extensions for Angular development
 
 ## To install all
 ```bash
+code --install-extension johnpapa.angular-essentials
 code --install-extension Angular.ng-template
 code --install-extension alexiv.vscode-angular2-files
 code --install-extension christian-kohler.path-intellisense
